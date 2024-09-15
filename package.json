@@ -3,6 +3,7 @@
 	"author": "Jhon Doe",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "coding", "learn" ],
+	"version": "1.0.0",
 	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
